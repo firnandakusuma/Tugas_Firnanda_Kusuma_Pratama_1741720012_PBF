@@ -1,0 +1,47 @@
+.judul{
+    text-align: center;
+}
+
+.box {
+    width: 350px;
+    height: 370px;
+    background: white;
+    margin: -10px auto;
+    padding: auto 10px;
+    border-style: solid;
+    border: 0.5px solid grey;
+}
+
+.form_login {
+    box-sizing: border-box;
+    width: 50%;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.label_username {
+    font-weight: bold;
+}
+
+.label_password {
+    font-weight: bold;
+}
+
+.login{
+    background: #53B03D;
+    width: 300px;
+	color: white;
+	font-size: 11pt;
+	border: none;
+	padding: 10px 20px;
+}
+
+.cancel{
+    background: #EE4822;
+    margin: -10px auto;
+	color: white;
+	font-size: 11pt;
+	width: auto;
+	border: none;
+	padding: 10px 20px;
+}
