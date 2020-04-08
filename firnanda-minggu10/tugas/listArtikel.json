@@ -1,18 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "id": 1586347016738,
+      "nim": "174172012",
+      "nama": "firnanda",
+      "alamat": "Jl.Klayatan GG 2",
+      "hp": "081572386752",
+      "angkatan": "2017",
+      "status": "Mahasiswa"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
